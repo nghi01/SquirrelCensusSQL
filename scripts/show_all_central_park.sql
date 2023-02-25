@@ -1,0 +1,1 @@
+SELECT * FROM central_park;
