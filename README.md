@@ -18,6 +18,6 @@ SquirrelCensusSQL is used to answer questions regarding the Squirrel Data.
   - list_park_id.sql
 
 * Add Max Area number of squirrels:
-  - Upper Manhattan: 34, Central Manhattan: 59, Lower Manhattan: 26, Brooklyn: 44
+  - Upper Manhattan: 34, Central Manhattan: 59, Lower Manhattan: 26, Brooklyn: 44 (max_area_squirrel.sql)
 
 Datasets are collected by SquirrelCensus (2018). https://www.thesquirrelcensus.com/data
