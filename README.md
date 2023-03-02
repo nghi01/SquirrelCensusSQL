@@ -14,4 +14,7 @@ SquirrelCensusSQL is used to answer questions regarding the Squirrel Data.
 * Find the maximum number of gray squirrels on a specific date:
   - Maximum number of Gray squirrels on any date is 339. (scripts/max_gray.sql)
 
+* List the joined table of park and squirrel:
+  - list_park_id.sql
+
 Datasets are collected by SquirrelCensus (2018). https://www.thesquirrelcensus.com/data
