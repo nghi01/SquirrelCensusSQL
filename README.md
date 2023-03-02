@@ -1,6 +1,7 @@
 # SquirrelCensusSQL
 
 SquirrelCensusSQL is used to answer questions regarding the Squirrel Data.
+[Squirrel]![Recording 2023-03-02 at 12 33 10](https://user-images.githubusercontent.com/70782465/222506977-02b6d843-11f2-4994-8cbc-9498aa1cedf3.gif)
 
 ## Questions and Answers
 * Compare number of adult squirrels running in central park with the number of juvenile squirrels.
